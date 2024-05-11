@@ -7,7 +7,7 @@
 Clone the project
 
 ```sh
-git clone https://github.com/weasel-0/Todo.git
+git clone https://github.com/weasel-0/Pokedex.git
 ```
 
 Install dependencies
@@ -26,5 +26,5 @@ pnpm run dev
 
 <details>
 <summary>Preview</summary>
-![pokedex project preview](https://github.com/weasel-0/Pokedex/blob/main/src/assets/preview.png)
+![project preview](preview.png)
 </details>
