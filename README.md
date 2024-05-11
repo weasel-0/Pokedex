@@ -26,5 +26,5 @@ pnpm run dev
 
 <details>
 <summary>Preview</summary>
-![pokedex project preview](src/assets/preview.png?raw=true)
+![pokedex project preview](https://github.com/weasel-0/Pokedex/blob/main/src/assets/preview.png?raw=true)
 </details>
