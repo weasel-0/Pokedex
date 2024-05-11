@@ -26,5 +26,7 @@ pnpm run dev
 
 <details>
 <summary>Preview</summary>
+
 ![project preview](preview.png)
+
 </details>
